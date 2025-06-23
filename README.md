@@ -18,6 +18,11 @@ Atuo explorando como a Computação Quântica pode transformar setores como o fi
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/luizlohnoficial">
+    <img height="160em" src="github-contribution-grid-snake.svg"/>
+  </a>
+</div>
 ---
 
 ## 🧠 Áreas de Atuação
