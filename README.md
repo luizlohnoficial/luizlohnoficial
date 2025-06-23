@@ -38,12 +38,12 @@ Atuo explorando como a Computação Quântica pode transformar setores como o fi
 ## 🚀 Tecnologias e Frameworks
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/LogoIBM.svg">
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/AWS_Logo.svg">
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Qiskit_logo.svg">
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Pennylane_logo.png">
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/LogoIBM.svg">
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Azure_logo.svg">
+  <img align="center" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/ibm.png">
+  <img align="center" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
+  <img align="center" height="30" width="100" src="https://qiskit.org/documentation/_static/qiskit-logo.png">
+  <img align="center" height="30" width="40" src="https://pennylane.ai/static/marketing/logo.svg">
+  <img align="center" height="30" width="40" src="https://img.icons8.com/color/48/000000/azure-1.png">
+
 </div>
 
 ---
